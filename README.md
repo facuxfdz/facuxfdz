@@ -11,6 +11,8 @@
 
 ## Tech Stack
 
+Here is some of the technologies that i usually use
+---
 - ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 - ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -21,5 +23,3 @@
 - ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=black)
 - ![Linux](https://img.shields.io/badge/Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=black)
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=black)
-
-https://img.shields.io/badge/Azure-Pipelines-2560E0?style=for-the-badge&logo=azurepipelines&logoColor=black
