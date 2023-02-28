@@ -11,7 +11,7 @@
 
 ## Tech Stack
 
-Here is some of the technologies that i usually use
+When it comes to developing applications and infrastructure, I have a diverse range of tools and technologies at my disposal. Below you'll find a list of some of the technologies I use most frequently to build my ideas:
 
 - ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 - ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
